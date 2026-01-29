@@ -1,0 +1,59 @@
+Repository Organization System - How To Use
+===========================================
+
+This repository uses a comprehensive organization system that classifies files
+by TIME, DATE, CONTENT TYPE, and NAME. This document explains how to use it.
+
+QUICK START
+-----------
+1. Open REPOSITORY_ORGANIZATION.md for an overview
+2. Browse the appropriate organization file for your needs:
+   - ORGANIZATION_BY_NAME.md - Find files alphabetically
+   - ORGANIZATION_BY_TIME.md - Find files by modification date
+   - ORGANIZATION_BY_TYPE.md - Find files by type (.cs, .md, etc.)
+
+DETAILED GUIDES
+---------------
+
+Finding a File by Name:
+1. Open ORGANIZATION_BY_NAME.md or ORGANIZATION_BY_NAME.json
+2. Search (Ctrl+F) for the filename
+3. The listing shows the full path, size, and modification date
+
+Finding Files by Type:
+1. Open ORGANIZATION_BY_TYPE.md or ORGANIZATION_BY_TYPE.json
+2. Look at the File Type Statistics section
+3. Navigate to the section for your file type (e.g., ".cs" for C# files)
+4. Browse the alphabetically sorted list of files of that type
+
+Finding Recently Modified Files:
+1. Open ORGANIZATION_BY_TIME.md or ORGANIZATION_BY_TIME.json
+2. Look at the "Newest Files" section at the bottom
+3. Files are sorted by modification timestamp
+
+Getting Repository Statistics:
+1. Open ORGANIZATION_STATS.json
+2. View total_files, total_size_bytes, and file_types distribution
+
+REGENERATING THE ORGANIZATION
+------------------------------
+If files are added, removed, or modified in the repository, you can regenerate
+the organization files by running the Python scripts used to create them.
+
+Note: The organization system was created on 2026-01-29 and captures the
+repository state at that time. Files added after this date won't appear in
+the organization files until they are regenerated.
+
+FILE FORMATS
+------------
+- .json files - Machine-readable, complete data, good for scripting
+- .md files - Human-readable summaries with tables, good for browsing
+
+BENEFITS
+--------
+- Non-invasive: Doesn't modify source code or project structure
+- Multi-dimensional: Search by name, time, or type simultaneously
+- Comprehensive: Covers all 1,592 files in the repository
+- Well-documented: Both human and machine-readable formats
+
+For more information, see REPOSITORY_ORGANIZATION.md
