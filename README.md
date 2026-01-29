@@ -1,7 +1,7 @@
 <img src="./Media/SLogo.png" align="right" />
 
 # [StockSharp - trading platform][1] 
-## [Doc][2] | [Download][3] | [Chat][7]
+## [Doc][2] | [Download][3] | [Chat][7] | [📁 Repository Organization](REPOSITORY_ORGANIZATION.md)
 
 ## Introduction ##
 
@@ -208,6 +208,26 @@ public class SimpleStrategy : Strategy
 |<img src="./Media/logos/fxcm_logo.svg" height="30" /> |FXCM | <a href="//doc.stocksharp.com/topics/api/connectors/forex/fxcm.html" target="_blank">Eng</a> | <a href="https://doc.stocksharp.ru/topics/api/connectors/forex/fxcm.html" target="_blank">Ru</a> |
 |<img src="./Media/logos/lmax_logo.svg" height="30" /> |LMAX | <a href="//doc.stocksharp.com/topics/api/connectors/forex/lmax.html" target="_blank">Eng</a> | <a href="https://doc.stocksharp.ru/topics/api/connectors/forex/lmax.html" target="_blank">Ru</a> |
 |<img src="./Media/logos/Oanda_logo.svg" height="30" /> |Oanda | <a href="//doc.stocksharp.com/topics/api/connectors/forex/oanda.html" target="_blank">Eng</a> | <a href="https://doc.stocksharp.ru/topics/api/connectors/forex/oanda.html" target="_blank">Ru</a> |
+
+## Repository Organization
+
+This repository is organized using a comprehensive classification system based on **time**, **date**, **content type**, and **name**. 
+
+📁 **[View Complete Repository Organization](REPOSITORY_ORGANIZATION.md)**
+
+The organization system provides:
+- **Files sorted by Name** - Alphabetical listing for easy lookup
+- **Files sorted by Time/Date** - Chronological organization by modification time
+- **Files sorted by Content Type** - Categorized by file extension (.cs, .csproj, .md, etc.)
+- **Repository Statistics** - Overall metrics and file distribution
+
+### Quick Links
+- [Organization by Name](ORGANIZATION_BY_NAME.md) - Alphabetical file listing
+- [Organization by Time](ORGANIZATION_BY_TIME.md) - Files sorted by modification date
+- [Organization by Type](ORGANIZATION_BY_TYPE.md) - Files categorized by content type
+- [Repository Statistics](ORGANIZATION_STATS.json) - Complete repository metrics
+
+This non-invasive organization system helps navigate the 1,560+ files in this codebase without modifying the actual file structure.
 
   [1]: https://stocksharp.com
   [2]: https://doc.stocksharp.com
