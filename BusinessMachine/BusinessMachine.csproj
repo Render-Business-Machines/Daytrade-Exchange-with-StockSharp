@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\common_target_net.props" />
+  <PropertyGroup>
+    <ProjectGuid>{E8A3F4C2-9D1B-4E8F-A6B7-3C5D8E9F0A1B}</ProjectGuid>
+    <RootNamespace>StockSharp.BusinessMachine</RootNamespace>
+    <AssemblyName>StockSharp.BusinessMachine</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Ecng.Configuration" Version="$(EcngVer)" />
+    <PackageReference Include="Ecng.Common" Version="$(EcngVer)" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessEntities\BusinessEntities.csproj" />
+    <ProjectReference Include="..\Messages\Messages.csproj" />
+    <ProjectReference Include="..\Algo\Algo.csproj" />
+  </ItemGroup>
+</Project>
