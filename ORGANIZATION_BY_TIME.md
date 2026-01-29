@@ -66,7 +66,8 @@ This document lists files sorted by their last modification time.
 ### Newest Files (Last 50)
 
 | Name | Path | Modified | Size (bytes) |
-|------|------|----------|--------------|\n| OrdersLogWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/OrdersLogWindow.xaml.cs | 2026-01-29 19:14:40 | 153 |
+|------|------|----------|--------------|
+| OrdersLogWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/OrdersLogWindow.xaml.cs | 2026-01-29 19:14:40 | 153 |
 | QuotesWindow.xaml | ./Samples/09_Advanced/01_MultiConnect/QuotesWindow.xaml | 2026-01-29 19:14:40 | 521 |
 | QuotesWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/QuotesWindow.xaml.cs | 2026-01-29 19:14:40 | 1377 |
 | NewsWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/NewsWindow.xaml.cs | 2026-01-29 19:14:40 | 143 |
