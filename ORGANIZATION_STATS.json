@@ -1,0 +1,27 @@
+{
+  "total_files": 1560,
+  "total_size_bytes": 65101693,
+  "file_types": {
+    ".props": 14,
+    "no_extension": 2,
+    ".dotsettings": 1,
+    ".sln": 2,
+    "": 1,
+    ".md": 37,
+    ".ico": 1,
+    ".cs": 1060,
+    ".csproj": 125,
+    ".fs": 9,
+    ".fsproj": 1,
+    ".gif": 4,
+    ".png": 27,
+    ".svg": 95,
+    ".json": 37,
+    ".xaml": 75,
+    ".resx": 26,
+    ".settings": 28,
+    ".config": 1,
+    ".py": 14
+  },
+  "generated_at": "2026-01-29 19:15:50"
+}
