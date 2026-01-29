@@ -2,9 +2,9 @@
 
 This document lists files sorted by their last modification time.
 
-**Generated:** 2026-01-29 19:15:50  
-**Total Files:** 1560  
-**Total Size:** 62.09 MB
+**Generated:** 2026-01-29 19:21:21  
+**Total Files:** 1592  
+**Total Size:** 63.37 MB
 
 ## Files by Modification Date
 
@@ -66,41 +66,7 @@ This document lists files sorted by their last modification time.
 ### Newest Files (Last 50)
 
 | Name | Path | Modified | Size (bytes) |
-|------|------|----------|--------------|
-| OrdersLogWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/OrdersLogWindow.xaml.cs | 2026-01-29 19:14:40 | 153 |
-| QuotesWindow.xaml | ./Samples/09_Advanced/01_MultiConnect/QuotesWindow.xaml | 2026-01-29 19:14:40 | 521 |
-| QuotesWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/QuotesWindow.xaml.cs | 2026-01-29 19:14:40 | 1377 |
-| NewsWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/NewsWindow.xaml.cs | 2026-01-29 19:14:40 | 143 |
-| MainPanel.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/MainPanel.xaml.cs | 2026-01-29 19:14:40 | 10354 |
-| ChartWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/ChartWindow.xaml.cs | 2026-01-29 19:14:40 | 1631 |
-| SecuritiesWindow.xaml | ./Samples/09_Advanced/01_MultiConnect/SecuritiesWindow.xaml | 2026-01-29 19:14:40 | 2870 |
-| MainWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/MainWindow.xaml.cs | 2026-01-29 19:14:40 | 563 |
-| PortfoliosWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/PortfoliosWindow.xaml.cs | 2026-01-29 19:14:40 | 155 |
-| Level1Window.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/Level1Window.xaml.cs | 2026-01-29 19:14:40 | 147 |
-| App.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/App.xaml.cs | 2026-01-29 19:14:40 | 330 |
-| OrdersWindow.xaml | ./Samples/09_Advanced/01_MultiConnect/OrdersWindow.xaml | 2026-01-29 19:14:40 | 585 |
-| NewsWindow.xaml | ./Samples/09_Advanced/01_MultiConnect/NewsWindow.xaml | 2026-01-29 19:14:40 | 453 |
-| ChartWindow.xaml | ./Samples/09_Advanced/01_MultiConnect/ChartWindow.xaml | 2026-01-29 19:14:40 | 374 |
-| PortfoliosWindow.xaml | ./Samples/09_Advanced/01_MultiConnect/PortfoliosWindow.xaml | 2026-01-29 19:14:40 | 526 |
-| MyTradesWindow.xaml.cs | ./Samples/09_Advanced/01_MultiConnect/MyTradesWindow.xaml.cs | 2026-01-29 19:14:40 | 151 |
-| MainPanel.xaml | ./Samples/09_Advanced/01_MultiConnect/MainPanel.xaml | 2026-01-29 19:14:40 | 2151 |
-| AssemblyInfo.cs | ./Samples/09_Advanced/01_MultiConnect/Properties/AssemblyInfo.cs | 2026-01-29 19:14:40 | 847 |
-| Settings.Designer.cs | ./Samples/09_Advanced/01_MultiConnect/Properties/Settings.Designer.cs | 2026-01-29 19:14:40 | 1097 |
-| Settings.settings | ./Samples/09_Advanced/01_MultiConnect/Properties/Settings.settings | 2026-01-29 19:14:40 | 195 |
-| StockSharp.DotSettings | ./StockSharp.DotSettings | 2026-01-29 19:14:40 | 10074 |
-| common_samples_netwindows.props | ./Samples/common_samples_netwindows.props | 2026-01-29 19:14:40 | 601 |
-| Samples.sln | ./Samples/Samples.sln | 2026-01-29 19:14:40 | 22553 |
-| common_samples.props | ./Samples/common_samples.props | 2026-01-29 19:14:40 | 802 |
-| README.md | ./Samples/README.md | 2026-01-29 19:14:40 | 2961 |
-| common_samples_net.props | ./Samples/common_samples_net.props | 2026-01-29 19:14:40 | 244 |
-| common_connectors.props | ./Samples/common_connectors.props | 2026-01-29 19:14:40 | 505 |
-| README.md | ./Samples/10_CrossPlatform/README.md | 2026-01-29 19:14:40 | 2558 |
-| README.md | ./Samples/10_CrossPlatform/01_ConsoleApp/README.md | 2026-01-29 19:14:40 | 2510 |
-| 01_CrossPlatform.ConsoleApp_fromsrc.csproj | ./Samples/10_CrossPlatform/01_ConsoleApp/01_CrossPlatform.ConsoleApp_fromsrc.csproj | 2026-01-29 19:14:40 | 279 |
-| 01_CrossPlatform.ConsoleApp.csproj | ./Samples/10_CrossPlatform/01_ConsoleApp/01_CrossPlatform.ConsoleApp.csproj | 2026-01-29 19:14:40 | 245 |
-| Program.cs | ./Samples/10_CrossPlatform/01_ConsoleApp/Program.cs | 2026-01-29 19:14:40 | 3084 |
-| MainWindow.xaml | ./Samples/09_Advanced/02_StoreDataLocal/MainWindow.xaml | 2026-01-29 19:14:40 | 540 |
-| MainWindow.xaml.cs | ./Samples/09_Advanced/02_StoreDataLocal/MainWindow.xaml.cs | 2026-01-29 19:14:40 | 2040 |
+|------|------|----------|--------------|\n| MainWindow.xaml.cs | ./Samples/09_Advanced/02_StoreDataLocal/MainWindow.xaml.cs | 2026-01-29 19:14:40 | 2040 |
 | 02_Advanced.SaveDataLocal.csproj | ./Samples/09_Advanced/02_StoreDataLocal/02_Advanced.SaveDataLocal.csproj | 2026-01-29 19:14:40 | 1013 |
 | 02_Advanced.SaveDataLocal_fromsrc.csproj | ./Samples/09_Advanced/02_StoreDataLocal/02_Advanced.SaveDataLocal_fromsrc.csproj | 2026-01-29 19:14:40 | 900 |
 | AssemblyInfo.cs | ./Samples/09_Advanced/02_StoreDataLocal/Properties/AssemblyInfo.cs | 2026-01-29 19:14:40 | 834 |
@@ -117,5 +83,38 @@ This document lists files sorted by their last modification time.
 | common_target_common.props | ./common_target_common.props | 2026-01-29 19:14:40 | 2786 |
 | common_target_net.props | ./common_target_net.props | 2026-01-29 19:14:40 | 385 |
 | common_localization.props | ./common_localization.props | 2026-01-29 19:14:40 | 209 |
+| ORGANIZATION_BY_NAME.json | ./ORGANIZATION_BY_NAME.json | 2026-01-29 19:15:50 | 423942 |
+| ORGANIZATION_BY_TIME.json | ./ORGANIZATION_BY_TIME.json | 2026-01-29 19:15:50 | 423942 |
+| ORGANIZATION_BY_TYPE.json | ./ORGANIZATION_BY_TYPE.json | 2026-01-29 19:15:50 | 452369 |
+| ORGANIZATION_STATS.json | ./ORGANIZATION_STATS.json | 2026-01-29 19:15:50 | 461 |
+| ORGANIZATION_BY_NAME.md | ./ORGANIZATION_BY_NAME.md | 2026-01-29 19:16:13 | 14053 |
+| ORGANIZATION_BY_TYPE.md | ./ORGANIZATION_BY_TYPE.md | 2026-01-29 19:16:13 | 15986 |
+| REPOSITORY_ORGANIZATION.md | ./REPOSITORY_ORGANIZATION.md | 2026-01-29 19:16:37 | 4840 |
+| README.md | ./README.md | 2026-01-29 19:17:31 | 32571 |
+| Algo.csproj.FileListAbsolute.txt | ./Algo/obj/Debug/net6.0/Algo.csproj.FileListAbsolute.txt | 2026-01-29 19:18:15 | 0 |
+| Messages.csproj.FileListAbsolute.txt | ./Messages/obj/Debug/netstandard2.0/Messages.csproj.FileListAbsolute.txt | 2026-01-29 19:18:15 | 0 |
+| Localization.csproj.FileListAbsolute.txt | ./Localization/obj/Debug/netstandard2.0/Localization.csproj.FileListAbsolute.txt | 2026-01-29 19:18:15 | 0 |
+| BusinessEntities.csproj.FileListAbsolute.txt | ./BusinessEntities/obj/Debug/net6.0/BusinessEntities.csproj.FileListAbsolute.txt | 2026-01-29 19:18:15 | 0 |
+| Configuration.csproj.FileListAbsolute.txt | ./Configuration/obj/Debug/netstandard2.0/Configuration.csproj.FileListAbsolute.txt | 2026-01-29 19:18:15 | 0 |
+| Alerts.Interfaces.csproj.FileListAbsolute.txt | ./Alerts.Interfaces/obj/Debug/net6.0/Alerts.Interfaces.csproj.FileListAbsolute.txt | 2026-01-29 19:18:15 | 0 |
+| Messages.csproj.FileListAbsolute.txt | ./Messages/obj/Debug/net6.0/Messages.csproj.FileListAbsolute.txt | 2026-01-29 19:18:15 | 0 |
+| Media.csproj.FileListAbsolute.txt | ./Media/obj/Debug/netstandard2.0/Media.csproj.FileListAbsolute.txt | 2026-01-29 19:18:15 | 0 |
+| Localization.Generator.csproj.FileListAbsolute.txt | ./Localization.Generator/obj/Debug/netstandard2.0/Localization.Generator.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| BitStamp.csproj.FileListAbsolute.txt | ./Connectors/BitStamp/obj/Debug/net6.0/BitStamp.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| Charting.Interfaces.csproj.FileListAbsolute.txt | ./Charting.Interfaces/obj/Debug/net6.0/Charting.Interfaces.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| Algo.Export.csproj.FileListAbsolute.txt | ./Algo.Export/obj/Debug/net6.0/Algo.Export.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| Bitalong.csproj.FileListAbsolute.txt | ./Connectors/Bitalong/obj/Debug/net6.0/Bitalong.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| Bitexbook.csproj.FileListAbsolute.txt | ./Connectors/Bitexbook/obj/Debug/net6.0/Bitexbook.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| Btce.csproj.FileListAbsolute.txt | ./Connectors/Btce/obj/Debug/net6.0/Btce.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| Coinbase.csproj.FileListAbsolute.txt | ./Connectors/Coinbase/obj/Debug/net6.0/Coinbase.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| Tinkoff.csproj.FileListAbsolute.txt | ./Connectors/Tinkoff/obj/Debug/net6.0/Tinkoff.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| FTX.csproj.FileListAbsolute.txt | ./Connectors/FTX/obj/Debug/net6.0/FTX.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| 02_Storage.Local.csproj.FileListAbsolute.txt | ./Samples/03_Storage/02_Local/obj/Debug/net6.0/02_Storage.Local.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| 03_Storage.RemoteSource.csproj.FileListAbsolute.txt | ./Samples/03_Storage/03_RemoteSource/obj/Debug/net6.0/03_Storage.RemoteSource.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| 01_Storage.Random.csproj.FileListAbsolute.txt | ./Samples/03_Storage/01_Random/obj/Debug/net6.0/01_Storage.Random.csproj.FileListAbsolute.txt | 2026-01-29 19:18:16 | 0 |
+| 02_Misc.Unit.csproj.FileListAbsolute.txt | ./Samples/08_Misc/02_Unit/obj/Debug/net6.0/02_Misc.Unit.csproj.FileListAbsolute.txt | 2026-01-29 19:18:17 | 0 |
+| BusinessMachine.csproj.FileListAbsolute.txt | ./BusinessMachine/obj/Debug/net6.0/BusinessMachine.csproj.FileListAbsolute.txt | 2026-01-29 19:18:17 | 0 |
+| 01_CrossPlatform.ConsoleApp.csproj.FileListAbsolute.txt | ./Samples/10_CrossPlatform/01_ConsoleApp/obj/Debug/net6.0/01_CrossPlatform.ConsoleApp.csproj.FileListAbsolute.txt | 2026-01-29 19:18:17 | 0 |
+| ORGANIZATION_BY_TIME.md | ./ORGANIZATION_BY_TIME.md | 2026-01-29 19:19:48 | 10755 |
 
 *See ORGANIZATION_BY_TIME.json for complete listing.*

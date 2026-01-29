@@ -2,32 +2,33 @@
 
 This document categorizes all files by their content type (file extension).
 
-**Generated:** 2026-01-29 19:15:50  
-**Total Files:** 1560  
-**Total Size:** 62.09 MB  
-**File Types:** 20
+**Generated:** 2026-01-29 19:21:21  
+**Total Files:** 1592  
+**Total Size:** 63.37 MB  
+**File Types:** 21
 
 ## File Type Statistics
 
 | File Type | Count | Percentage |
 |-----------|-------|------------|
-| .cs | 1060 | 67.9% |
-| .csproj | 125 | 8.0% |
-| .svg | 95 | 6.1% |
-| .xaml | 75 | 4.8% |
-| .md | 37 | 2.4% |
-| .json | 37 | 2.4% |
+| .cs | 1060 | 66.6% |
+| .csproj | 125 | 7.9% |
+| .svg | 95 | 6.0% |
+| .xaml | 75 | 4.7% |
+| .md | 41 | 2.6% |
+| .json | 41 | 2.6% |
 | .settings | 28 | 1.8% |
 | .png | 27 | 1.7% |
-| .resx | 26 | 1.7% |
+| .resx | 26 | 1.6% |
+| .txt | 24 | 1.5% |
 | .props | 14 | 0.9% |
 | .py | 14 | 0.9% |
 | .fs | 9 | 0.6% |
 | .gif | 4 | 0.3% |
-| no_extension | 2 | 0.1% |
+| (no extension) | 2 | 0.1% |
 | .sln | 2 | 0.1% |
 | .dotsettings | 1 | 0.1% |
-|  | 1 | 0.1% |
+| (dotfile) | 1 | 0.1% |
 | .ico | 1 | 0.1% |
 | .fsproj | 1 | 0.1% |
 | .config | 1 | 0.1% |
@@ -135,13 +136,16 @@ This document categorizes all files by their content type (file extension).
 
 *Showing first 20 files. See ORGANIZATION_BY_TYPE.json for complete listing.*
 
-### .md (37 files)
+### .md (41 files)
 
 - `./BusinessMachine/ARCHITECTURE.md` (2026-01-29 19:14:40)
 - `./BusinessMachine/CHANGELOG.md` (2026-01-29 19:14:40)
 - `./BusinessMachine/INTEGRATION.md` (2026-01-29 19:14:40)
+- `./ORGANIZATION_BY_NAME.md` (2026-01-29 19:16:13)
+- `./ORGANIZATION_BY_TIME.md` (2026-01-29 19:19:48)
+- `./ORGANIZATION_BY_TYPE.md` (2026-01-29 19:16:13)
 - `./BusinessMachine/QUICKREF.md` (2026-01-29 19:14:40)
-- `./README.md` (2026-01-29 19:14:40)
+- `./README.md` (2026-01-29 19:17:31)
 - `./Connectors/README.md` (2026-01-29 19:14:40)
 - `./BusinessMachine/README.md` (2026-01-29 19:14:40)
 - `./Samples/README.md` (2026-01-29 19:14:40)
@@ -154,14 +158,15 @@ This document categorizes all files by their content type (file extension).
 - `./Samples/06_Strategies/03_HistoryTrend/README.md` (2026-01-29 19:14:40)
 - `./Samples/06_Strategies/03_HistoryTrend/OneCandleCountertrend/README.md` (2026-01-29 19:14:40)
 - `./Samples/06_Strategies/03_HistoryTrend/OneCandleTrend/README.md` (2026-01-29 19:14:40)
-- `./Samples/06_Strategies/03_HistoryTrend/StairsTrend/README.md` (2026-01-29 19:14:40)
-- `./Samples/06_Strategies/03_HistoryTrend/StairsCountertrend/README.md` (2026-01-29 19:14:40)
-- `./Samples/06_Strategies/04_HistoryMarketRule/RulesUntil/README.md` (2026-01-29 19:14:40)
 
 *Showing first 20 files. See ORGANIZATION_BY_TYPE.json for complete listing.*
 
-### .json (37 files)
+### .json (41 files)
 
+- `./ORGANIZATION_BY_NAME.json` (2026-01-29 19:15:50)
+- `./ORGANIZATION_BY_TIME.json` (2026-01-29 19:15:50)
+- `./ORGANIZATION_BY_TYPE.json` (2026-01-29 19:15:50)
+- `./ORGANIZATION_STATS.json` (2026-01-29 19:15:50)
 - `./Localization/strings.json` (2026-01-29 19:14:40)
 - `./Localization.Langs/he/strings.json` (2026-01-29 19:14:40)
 - `./Localization.Langs/pa/strings.json` (2026-01-29 19:14:40)
@@ -178,10 +183,6 @@ This document categorizes all files by their content type (file extension).
 - `./Localization.Langs/sv/strings.json` (2026-01-29 19:14:40)
 - `./Localization.Langs/cs/strings.json` (2026-01-29 19:14:40)
 - `./Localization.Langs/vi/strings.json` (2026-01-29 19:14:40)
-- `./Localization.Langs/ja/strings.json` (2026-01-29 19:14:40)
-- `./Localization.Langs/sr/strings.json` (2026-01-29 19:14:40)
-- `./Localization.Langs/zh/strings.json` (2026-01-29 19:14:40)
-- `./Localization.Langs/ta/strings.json` (2026-01-29 19:14:40)
 
 *Showing first 20 files. See ORGANIZATION_BY_TYPE.json for complete listing.*
 
@@ -260,19 +261,27 @@ This document categorizes all files by their content type (file extension).
 
 *Showing first 20 files. See ORGANIZATION_BY_TYPE.json for complete listing.*
 
-### .props (14 files)
+### .txt (24 files)
 
-- `./Connectors/common_connectors.props` (2026-01-29 19:14:40)
-- `./Samples/common_connectors.props` (2026-01-29 19:14:40)
-- `./Connectors/common_connectors_websocket.props` (2026-01-29 19:14:40)
-- `./Localization.Langs/common_lang.props` (2026-01-29 19:14:40)
-- `./common_localization.props` (2026-01-29 19:14:40)
-- `./Samples/common_samples.props` (2026-01-29 19:14:40)
-- `./Samples/common_samples_net.props` (2026-01-29 19:14:40)
-- `./Samples/common_samples_netwindows.props` (2026-01-29 19:14:40)
-- `./common_target_common.props` (2026-01-29 19:14:40)
-- `./common_target_net.props` (2026-01-29 19:14:40)
-- `./common_target_netwindows.props` (2026-01-29 19:14:40)
-- `./common_target_source_generator.props` (2026-01-29 19:14:40)
-- `./common_target_standard.props` (2026-01-29 19:14:40)
-- `./common_versions.props` (2026-01-29 19:14:40)
+- `./Samples/10_CrossPlatform/01_ConsoleApp/obj/Debug/net6.0/01_CrossPlatform.ConsoleApp.csproj.FileListAbsolute.txt` (2026-01-29 19:18:17)
+- `./Samples/03_Storage/01_Random/obj/Debug/net6.0/01_Storage.Random.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Samples/08_Misc/02_Unit/obj/Debug/net6.0/02_Misc.Unit.csproj.FileListAbsolute.txt` (2026-01-29 19:18:17)
+- `./Samples/03_Storage/02_Local/obj/Debug/net6.0/02_Storage.Local.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Samples/03_Storage/03_RemoteSource/obj/Debug/net6.0/03_Storage.RemoteSource.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Alerts.Interfaces/obj/Debug/net6.0/Alerts.Interfaces.csproj.FileListAbsolute.txt` (2026-01-29 19:18:15)
+- `./Algo/obj/Debug/net6.0/Algo.csproj.FileListAbsolute.txt` (2026-01-29 19:18:15)
+- `./Algo.Export/obj/Debug/net6.0/Algo.Export.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Connectors/Bitalong/obj/Debug/net6.0/Bitalong.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Connectors/Bitexbook/obj/Debug/net6.0/Bitexbook.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Connectors/BitStamp/obj/Debug/net6.0/BitStamp.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Connectors/Btce/obj/Debug/net6.0/Btce.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./BusinessEntities/obj/Debug/net6.0/BusinessEntities.csproj.FileListAbsolute.txt` (2026-01-29 19:18:15)
+- `./BusinessMachine/obj/Debug/net6.0/BusinessMachine.csproj.FileListAbsolute.txt` (2026-01-29 19:18:17)
+- `./Charting.Interfaces/obj/Debug/net6.0/Charting.Interfaces.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Connectors/Coinbase/obj/Debug/net6.0/Coinbase.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Configuration/obj/Debug/netstandard2.0/Configuration.csproj.FileListAbsolute.txt` (2026-01-29 19:18:15)
+- `./Connectors/FTX/obj/Debug/net6.0/FTX.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+- `./Localization/obj/Debug/netstandard2.0/Localization.csproj.FileListAbsolute.txt` (2026-01-29 19:18:15)
+- `./Localization.Generator/obj/Debug/netstandard2.0/Localization.Generator.csproj.FileListAbsolute.txt` (2026-01-29 19:18:16)
+
+*Showing first 20 files. See ORGANIZATION_BY_TYPE.json for complete listing.*

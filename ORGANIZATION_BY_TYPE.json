@@ -127,14 +127,14 @@
       "directory": "."
     }
   ],
-  "no_extension": [
+  "(no extension)": [
     {
       "path": "./LICENSE",
       "name": "LICENSE",
       "size": 11558,
       "modified": 1769714080.6673217,
       "modified_human": "2026-01-29 19:14:40",
-      "extension": "no_extension",
+      "extension": "(no extension)",
       "directory": "."
     },
     {
@@ -143,7 +143,7 @@
       "size": 865,
       "modified": 1769714080.9353213,
       "modified_human": "2026-01-29 19:14:40",
-      "extension": "no_extension",
+      "extension": "(no extension)",
       "directory": "."
     }
   ],
@@ -155,37 +155,6 @@
       "modified": 1769714080.9513214,
       "modified_human": "2026-01-29 19:14:40",
       "extension": ".dotsettings",
-      "directory": "."
-    }
-  ],
-  ".sln": [
-    {
-      "path": "./Samples/Samples.sln",
-      "name": "Samples.sln",
-      "size": 22553,
-      "modified": 1769714080.9513214,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".sln",
-      "directory": "./Samples"
-    },
-    {
-      "path": "./StockSharp.sln",
-      "name": "StockSharp.sln",
-      "size": 65774,
-      "modified": 1769714080.9523213,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".sln",
-      "directory": "."
-    }
-  ],
-  "": [
-    {
-      "path": "./.gitignore",
-      "name": ".gitignore",
-      "size": 2887,
-      "modified": 1769714080.628322,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": "",
       "directory": "."
     }
   ],
@@ -218,6 +187,33 @@
       "directory": "./BusinessMachine"
     },
     {
+      "path": "./ORGANIZATION_BY_NAME.md",
+      "name": "ORGANIZATION_BY_NAME.md",
+      "size": 14053,
+      "modified": 1769714173.7655396,
+      "modified_human": "2026-01-29 19:16:13",
+      "extension": ".md",
+      "directory": "."
+    },
+    {
+      "path": "./ORGANIZATION_BY_TIME.md",
+      "name": "ORGANIZATION_BY_TIME.md",
+      "size": 10755,
+      "modified": 1769714388.1568882,
+      "modified_human": "2026-01-29 19:19:48",
+      "extension": ".md",
+      "directory": "."
+    },
+    {
+      "path": "./ORGANIZATION_BY_TYPE.md",
+      "name": "ORGANIZATION_BY_TYPE.md",
+      "size": 15986,
+      "modified": 1769714173.7655396,
+      "modified_human": "2026-01-29 19:16:13",
+      "extension": ".md",
+      "directory": "."
+    },
+    {
       "path": "./BusinessMachine/QUICKREF.md",
       "name": "QUICKREF.md",
       "size": 6759,
@@ -229,9 +225,9 @@
     {
       "path": "./README.md",
       "name": "README.md",
-      "size": 31443,
-      "modified": 1769714080.9363215,
-      "modified_human": "2026-01-29 19:14:40",
+      "size": 32571,
+      "modified": 1769714251.538688,
+      "modified_human": "2026-01-29 19:17:31",
       "extension": ".md",
       "directory": "."
     },
@@ -515,6 +511,15 @@
       "directory": "./Localization.Langs/all"
     },
     {
+      "path": "./REPOSITORY_ORGANIZATION.md",
+      "name": "REPOSITORY_ORGANIZATION.md",
+      "size": 4840,
+      "modified": 1769714197.9535828,
+      "modified_human": "2026-01-29 19:16:37",
+      "extension": ".md",
+      "directory": "."
+    },
+    {
       "path": "./BusinessMachine/SUMMARY.md",
       "name": "SUMMARY.md",
       "size": 9542,
@@ -522,6 +527,408 @@
       "modified_human": "2026-01-29 19:14:40",
       "extension": ".md",
       "directory": "./BusinessMachine"
+    }
+  ],
+  ".json": [
+    {
+      "path": "./ORGANIZATION_BY_NAME.json",
+      "name": "ORGANIZATION_BY_NAME.json",
+      "size": 423942,
+      "modified": 1769714150.0774906,
+      "modified_human": "2026-01-29 19:15:50",
+      "extension": ".json",
+      "directory": "."
+    },
+    {
+      "path": "./ORGANIZATION_BY_TIME.json",
+      "name": "ORGANIZATION_BY_TIME.json",
+      "size": 423942,
+      "modified": 1769714150.0874906,
+      "modified_human": "2026-01-29 19:15:50",
+      "extension": ".json",
+      "directory": "."
+    },
+    {
+      "path": "./ORGANIZATION_BY_TYPE.json",
+      "name": "ORGANIZATION_BY_TYPE.json",
+      "size": 452369,
+      "modified": 1769714150.0984907,
+      "modified_human": "2026-01-29 19:15:50",
+      "extension": ".json",
+      "directory": "."
+    },
+    {
+      "path": "./ORGANIZATION_STATS.json",
+      "name": "ORGANIZATION_STATS.json",
+      "size": 461,
+      "modified": 1769714150.0994906,
+      "modified_human": "2026-01-29 19:15:50",
+      "extension": ".json",
+      "directory": "."
+    },
+    {
+      "path": "./Localization/strings.json",
+      "name": "strings.json",
+      "size": 198511,
+      "modified": 1769714080.7083218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization"
+    },
+    {
+      "path": "./Localization.Langs/he/strings.json",
+      "name": "strings.json",
+      "size": 239557,
+      "modified": 1769714080.6813219,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/he"
+    },
+    {
+      "path": "./Localization.Langs/pa/strings.json",
+      "name": "strings.json",
+      "size": 350435,
+      "modified": 1769714080.6913218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/pa"
+    },
+    {
+      "path": "./Localization.Langs/hu/strings.json",
+      "name": "strings.json",
+      "size": 224685,
+      "modified": 1769714080.6833217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/hu"
+    },
+    {
+      "path": "./Localization.Langs/hi/strings.json",
+      "name": "strings.json",
+      "size": 367366,
+      "modified": 1769714080.6823218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/hi"
+    },
+    {
+      "path": "./Localization.Langs/pl/strings.json",
+      "name": "strings.json",
+      "size": 217199,
+      "modified": 1769714080.6923218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/pl"
+    },
+    {
+      "path": "./Localization.Langs/nl/strings.json",
+      "name": "strings.json",
+      "size": 215821,
+      "modified": 1769714080.6893218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/nl"
+    },
+    {
+      "path": "./Localization.Langs/fr/strings.json",
+      "name": "strings.json",
+      "size": 229021,
+      "modified": 1769714080.6803217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/fr"
+    },
+    {
+      "path": "./Localization.Langs/ms/strings.json",
+      "name": "strings.json",
+      "size": 207507,
+      "modified": 1769714080.6883218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/ms"
+    },
+    {
+      "path": "./Localization.Langs/bn/strings.json",
+      "name": "strings.json",
+      "size": 372091,
+      "modified": 1769714080.6703217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/bn"
+    },
+    {
+      "path": "./Localization.Langs/ar/strings.json",
+      "name": "strings.json",
+      "size": 258753,
+      "modified": 1769714080.6683218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/ar"
+    },
+    {
+      "path": "./Localization.Langs/ro/strings.json",
+      "name": "strings.json",
+      "size": 222781,
+      "modified": 1769714080.6943216,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/ro"
+    },
+    {
+      "path": "./Localization.Langs/it/strings.json",
+      "name": "strings.json",
+      "size": 223470,
+      "modified": 1769714080.6843216,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/it"
+    },
+    {
+      "path": "./Localization.Langs/sv/strings.json",
+      "name": "strings.json",
+      "size": 209700,
+      "modified": 1769714080.6993217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/sv"
+    },
+    {
+      "path": "./Localization.Langs/cs/strings.json",
+      "name": "strings.json",
+      "size": 213606,
+      "modified": 1769714080.6723218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/cs"
+    },
+    {
+      "path": "./Localization.Langs/vi/strings.json",
+      "name": "strings.json",
+      "size": 240935,
+      "modified": 1769714080.7063217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/vi"
+    },
+    {
+      "path": "./Localization.Langs/ja/strings.json",
+      "name": "strings.json",
+      "size": 248110,
+      "modified": 1769714080.6853218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/ja"
+    },
+    {
+      "path": "./Localization.Langs/sr/strings.json",
+      "name": "strings.json",
+      "size": 287937,
+      "modified": 1769714080.6983218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/sr"
+    },
+    {
+      "path": "./Localization.Langs/zh/strings.json",
+      "name": "strings.json",
+      "size": 188870,
+      "modified": 1769714080.7073216,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/zh"
+    },
+    {
+      "path": "./Localization.Langs/ta/strings.json",
+      "name": "strings.json",
+      "size": 412523,
+      "modified": 1769714080.7003217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/ta"
+    },
+    {
+      "path": "./Localization.Langs/no/strings.json",
+      "name": "strings.json",
+      "size": 206123,
+      "modified": 1769714080.6903217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/no"
+    },
+    {
+      "path": "./Localization.Langs/fa/strings.json",
+      "name": "strings.json",
+      "size": 265142,
+      "modified": 1769714080.6783218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/fa"
+    },
+    {
+      "path": "./Localization.Langs/th/strings.json",
+      "name": "strings.json",
+      "size": 375143,
+      "modified": 1769714080.7023218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/th"
+    },
+    {
+      "path": "./Localization.Langs/es/strings.json",
+      "name": "strings.json",
+      "size": 224345,
+      "modified": 1769714080.6773217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/es"
+    },
+    {
+      "path": "./Localization.Langs/uk/strings.json",
+      "name": "strings.json",
+      "size": 299905,
+      "modified": 1769714080.7043216,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/uk"
+    },
+    {
+      "path": "./Localization.Langs/fi/strings.json",
+      "name": "strings.json",
+      "size": 210934,
+      "modified": 1769714080.6793218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/fi"
+    },
+    {
+      "path": "./Localization.Langs/de/strings.json",
+      "name": "strings.json",
+      "size": 220547,
+      "modified": 1769714080.6743217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/de"
+    },
+    {
+      "path": "./Localization.Langs/pt/strings.json",
+      "name": "strings.json",
+      "size": 220455,
+      "modified": 1769714080.6933217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/pt"
+    },
+    {
+      "path": "./Localization.Langs/da/strings.json",
+      "name": "strings.json",
+      "size": 207743,
+      "modified": 1769714080.6733217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/da"
+    },
+    {
+      "path": "./Localization.Langs/uz/strings.json",
+      "name": "strings.json",
+      "size": 214806,
+      "modified": 1769714080.7053218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/uz"
+    },
+    {
+      "path": "./Localization.Langs/jv/strings.json",
+      "name": "strings.json",
+      "size": 203365,
+      "modified": 1769714080.6863217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/jv"
+    },
+    {
+      "path": "./Localization.Langs/el/strings.json",
+      "name": "strings.json",
+      "size": 324807,
+      "modified": 1769714080.6753218,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/el"
+    },
+    {
+      "path": "./Localization.Langs/ko/strings.json",
+      "name": "strings.json",
+      "size": 221633,
+      "modified": 1769714080.6873217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/ko"
+    },
+    {
+      "path": "./Localization.Langs/sk/strings.json",
+      "name": "strings.json",
+      "size": 214648,
+      "modified": 1769714080.6973217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/sk"
+    },
+    {
+      "path": "./Localization.Langs/tr/strings.json",
+      "name": "strings.json",
+      "size": 211088,
+      "modified": 1769714080.7033217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/tr"
+    },
+    {
+      "path": "./Localization.Langs/ru/strings.json",
+      "name": "strings.json",
+      "size": 299602,
+      "modified": 1769714080.6963217,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/ru"
+    },
+    {
+      "path": "./Localization.Langs/ca/strings.json",
+      "name": "strings.json",
+      "size": 220975,
+      "modified": 1769714080.6713219,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".json",
+      "directory": "./Localization.Langs/ca"
+    }
+  ],
+  ".sln": [
+    {
+      "path": "./Samples/Samples.sln",
+      "name": "Samples.sln",
+      "size": 22553,
+      "modified": 1769714080.9513214,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".sln",
+      "directory": "./Samples"
+    },
+    {
+      "path": "./StockSharp.sln",
+      "name": "StockSharp.sln",
+      "size": 65774,
+      "modified": 1769714080.9523213,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": ".sln",
+      "directory": "."
+    }
+  ],
+  "(dotfile)": [
+    {
+      "path": "./.gitignore",
+      "name": ".gitignore",
+      "size": 2887,
+      "modified": 1769714080.628322,
+      "modified_human": "2026-01-29 19:14:40",
+      "extension": "(dotfile)",
+      "directory": "."
     }
   ],
   ".ico": [
@@ -11204,6 +11611,224 @@
       "directory": "./Connectors/Tinkoff"
     }
   ],
+  ".txt": [
+    {
+      "path": "./Samples/10_CrossPlatform/01_ConsoleApp/obj/Debug/net6.0/01_CrossPlatform.ConsoleApp.csproj.FileListAbsolute.txt",
+      "name": "01_CrossPlatform.ConsoleApp.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714297.8487554,
+      "modified_human": "2026-01-29 19:18:17",
+      "extension": ".txt",
+      "directory": "./Samples/10_CrossPlatform/01_ConsoleApp/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Samples/03_Storage/01_Random/obj/Debug/net6.0/01_Storage.Random.csproj.FileListAbsolute.txt",
+      "name": "01_Storage.Random.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.6997533,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Samples/03_Storage/01_Random/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Samples/08_Misc/02_Unit/obj/Debug/net6.0/02_Misc.Unit.csproj.FileListAbsolute.txt",
+      "name": "02_Misc.Unit.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714297.7127552,
+      "modified_human": "2026-01-29 19:18:17",
+      "extension": ".txt",
+      "directory": "./Samples/08_Misc/02_Unit/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Samples/03_Storage/02_Local/obj/Debug/net6.0/02_Storage.Local.csproj.FileListAbsolute.txt",
+      "name": "02_Storage.Local.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.6847534,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Samples/03_Storage/02_Local/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Samples/03_Storage/03_RemoteSource/obj/Debug/net6.0/03_Storage.RemoteSource.csproj.FileListAbsolute.txt",
+      "name": "03_Storage.RemoteSource.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.6887534,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Samples/03_Storage/03_RemoteSource/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Alerts.Interfaces/obj/Debug/net6.0/Alerts.Interfaces.csproj.FileListAbsolute.txt",
+      "name": "Alerts.Interfaces.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714295.8577518,
+      "modified_human": "2026-01-29 19:18:15",
+      "extension": ".txt",
+      "directory": "./Alerts.Interfaces/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Algo/obj/Debug/net6.0/Algo.csproj.FileListAbsolute.txt",
+      "name": "Algo.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714295.6757514,
+      "modified_human": "2026-01-29 19:18:15",
+      "extension": ".txt",
+      "directory": "./Algo/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Algo.Export/obj/Debug/net6.0/Algo.Export.csproj.FileListAbsolute.txt",
+      "name": "Algo.Export.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.0957522,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Algo.Export/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Connectors/Bitalong/obj/Debug/net6.0/Bitalong.csproj.FileListAbsolute.txt",
+      "name": "Bitalong.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.1787524,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Connectors/Bitalong/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Connectors/Bitexbook/obj/Debug/net6.0/Bitexbook.csproj.FileListAbsolute.txt",
+      "name": "Bitexbook.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.2377524,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Connectors/Bitexbook/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Connectors/BitStamp/obj/Debug/net6.0/BitStamp.csproj.FileListAbsolute.txt",
+      "name": "BitStamp.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.0647523,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Connectors/BitStamp/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Connectors/Btce/obj/Debug/net6.0/Btce.csproj.FileListAbsolute.txt",
+      "name": "Btce.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.2417526,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Connectors/Btce/obj/Debug/net6.0"
+    },
+    {
+      "path": "./BusinessEntities/obj/Debug/net6.0/BusinessEntities.csproj.FileListAbsolute.txt",
+      "name": "BusinessEntities.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714295.6907516,
+      "modified_human": "2026-01-29 19:18:15",
+      "extension": ".txt",
+      "directory": "./BusinessEntities/obj/Debug/net6.0"
+    },
+    {
+      "path": "./BusinessMachine/obj/Debug/net6.0/BusinessMachine.csproj.FileListAbsolute.txt",
+      "name": "BusinessMachine.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714297.8467555,
+      "modified_human": "2026-01-29 19:18:17",
+      "extension": ".txt",
+      "directory": "./BusinessMachine/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Charting.Interfaces/obj/Debug/net6.0/Charting.Interfaces.csproj.FileListAbsolute.txt",
+      "name": "Charting.Interfaces.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.0757523,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Charting.Interfaces/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Connectors/Coinbase/obj/Debug/net6.0/Coinbase.csproj.FileListAbsolute.txt",
+      "name": "Coinbase.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.2797527,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Connectors/Coinbase/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Configuration/obj/Debug/netstandard2.0/Configuration.csproj.FileListAbsolute.txt",
+      "name": "Configuration.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714295.8297517,
+      "modified_human": "2026-01-29 19:18:15",
+      "extension": ".txt",
+      "directory": "./Configuration/obj/Debug/netstandard2.0"
+    },
+    {
+      "path": "./Connectors/FTX/obj/Debug/net6.0/FTX.csproj.FileListAbsolute.txt",
+      "name": "FTX.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.4687529,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Connectors/FTX/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Localization/obj/Debug/netstandard2.0/Localization.csproj.FileListAbsolute.txt",
+      "name": "Localization.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714295.6887515,
+      "modified_human": "2026-01-29 19:18:15",
+      "extension": ".txt",
+      "directory": "./Localization/obj/Debug/netstandard2.0"
+    },
+    {
+      "path": "./Localization.Generator/obj/Debug/netstandard2.0/Localization.Generator.csproj.FileListAbsolute.txt",
+      "name": "Localization.Generator.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.0407522,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Localization.Generator/obj/Debug/netstandard2.0"
+    },
+    {
+      "path": "./Media/obj/Debug/netstandard2.0/Media.csproj.FileListAbsolute.txt",
+      "name": "Media.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714295.915752,
+      "modified_human": "2026-01-29 19:18:15",
+      "extension": ".txt",
+      "directory": "./Media/obj/Debug/netstandard2.0"
+    },
+    {
+      "path": "./Messages/obj/Debug/net6.0/Messages.csproj.FileListAbsolute.txt",
+      "name": "Messages.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714295.904752,
+      "modified_human": "2026-01-29 19:18:15",
+      "extension": ".txt",
+      "directory": "./Messages/obj/Debug/net6.0"
+    },
+    {
+      "path": "./Messages/obj/Debug/netstandard2.0/Messages.csproj.FileListAbsolute.txt",
+      "name": "Messages.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714295.6807516,
+      "modified_human": "2026-01-29 19:18:15",
+      "extension": ".txt",
+      "directory": "./Messages/obj/Debug/netstandard2.0"
+    },
+    {
+      "path": "./Connectors/Tinkoff/obj/Debug/net6.0/Tinkoff.csproj.FileListAbsolute.txt",
+      "name": "Tinkoff.csproj.FileListAbsolute.txt",
+      "size": 0,
+      "modified": 1769714296.3377528,
+      "modified_human": "2026-01-29 19:18:16",
+      "extension": ".txt",
+      "directory": "./Connectors/Tinkoff/obj/Debug/net6.0"
+    }
+  ],
   ".fs": [
     {
       "path": "./Algo.Analytics.FSharp/BiggestCandleScript.fs",
@@ -12436,341 +13061,6 @@
       "modified_human": "2026-01-29 19:14:40",
       "extension": ".svg",
       "directory": "./Media/logos"
-    }
-  ],
-  ".json": [
-    {
-      "path": "./Localization/strings.json",
-      "name": "strings.json",
-      "size": 198511,
-      "modified": 1769714080.7083218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization"
-    },
-    {
-      "path": "./Localization.Langs/he/strings.json",
-      "name": "strings.json",
-      "size": 239557,
-      "modified": 1769714080.6813219,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/he"
-    },
-    {
-      "path": "./Localization.Langs/pa/strings.json",
-      "name": "strings.json",
-      "size": 350435,
-      "modified": 1769714080.6913218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/pa"
-    },
-    {
-      "path": "./Localization.Langs/hu/strings.json",
-      "name": "strings.json",
-      "size": 224685,
-      "modified": 1769714080.6833217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/hu"
-    },
-    {
-      "path": "./Localization.Langs/hi/strings.json",
-      "name": "strings.json",
-      "size": 367366,
-      "modified": 1769714080.6823218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/hi"
-    },
-    {
-      "path": "./Localization.Langs/pl/strings.json",
-      "name": "strings.json",
-      "size": 217199,
-      "modified": 1769714080.6923218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/pl"
-    },
-    {
-      "path": "./Localization.Langs/nl/strings.json",
-      "name": "strings.json",
-      "size": 215821,
-      "modified": 1769714080.6893218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/nl"
-    },
-    {
-      "path": "./Localization.Langs/fr/strings.json",
-      "name": "strings.json",
-      "size": 229021,
-      "modified": 1769714080.6803217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/fr"
-    },
-    {
-      "path": "./Localization.Langs/ms/strings.json",
-      "name": "strings.json",
-      "size": 207507,
-      "modified": 1769714080.6883218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/ms"
-    },
-    {
-      "path": "./Localization.Langs/bn/strings.json",
-      "name": "strings.json",
-      "size": 372091,
-      "modified": 1769714080.6703217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/bn"
-    },
-    {
-      "path": "./Localization.Langs/ar/strings.json",
-      "name": "strings.json",
-      "size": 258753,
-      "modified": 1769714080.6683218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/ar"
-    },
-    {
-      "path": "./Localization.Langs/ro/strings.json",
-      "name": "strings.json",
-      "size": 222781,
-      "modified": 1769714080.6943216,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/ro"
-    },
-    {
-      "path": "./Localization.Langs/it/strings.json",
-      "name": "strings.json",
-      "size": 223470,
-      "modified": 1769714080.6843216,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/it"
-    },
-    {
-      "path": "./Localization.Langs/sv/strings.json",
-      "name": "strings.json",
-      "size": 209700,
-      "modified": 1769714080.6993217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/sv"
-    },
-    {
-      "path": "./Localization.Langs/cs/strings.json",
-      "name": "strings.json",
-      "size": 213606,
-      "modified": 1769714080.6723218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/cs"
-    },
-    {
-      "path": "./Localization.Langs/vi/strings.json",
-      "name": "strings.json",
-      "size": 240935,
-      "modified": 1769714080.7063217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/vi"
-    },
-    {
-      "path": "./Localization.Langs/ja/strings.json",
-      "name": "strings.json",
-      "size": 248110,
-      "modified": 1769714080.6853218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/ja"
-    },
-    {
-      "path": "./Localization.Langs/sr/strings.json",
-      "name": "strings.json",
-      "size": 287937,
-      "modified": 1769714080.6983218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/sr"
-    },
-    {
-      "path": "./Localization.Langs/zh/strings.json",
-      "name": "strings.json",
-      "size": 188870,
-      "modified": 1769714080.7073216,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/zh"
-    },
-    {
-      "path": "./Localization.Langs/ta/strings.json",
-      "name": "strings.json",
-      "size": 412523,
-      "modified": 1769714080.7003217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/ta"
-    },
-    {
-      "path": "./Localization.Langs/no/strings.json",
-      "name": "strings.json",
-      "size": 206123,
-      "modified": 1769714080.6903217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/no"
-    },
-    {
-      "path": "./Localization.Langs/fa/strings.json",
-      "name": "strings.json",
-      "size": 265142,
-      "modified": 1769714080.6783218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/fa"
-    },
-    {
-      "path": "./Localization.Langs/th/strings.json",
-      "name": "strings.json",
-      "size": 375143,
-      "modified": 1769714080.7023218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/th"
-    },
-    {
-      "path": "./Localization.Langs/es/strings.json",
-      "name": "strings.json",
-      "size": 224345,
-      "modified": 1769714080.6773217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/es"
-    },
-    {
-      "path": "./Localization.Langs/uk/strings.json",
-      "name": "strings.json",
-      "size": 299905,
-      "modified": 1769714080.7043216,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/uk"
-    },
-    {
-      "path": "./Localization.Langs/fi/strings.json",
-      "name": "strings.json",
-      "size": 210934,
-      "modified": 1769714080.6793218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/fi"
-    },
-    {
-      "path": "./Localization.Langs/de/strings.json",
-      "name": "strings.json",
-      "size": 220547,
-      "modified": 1769714080.6743217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/de"
-    },
-    {
-      "path": "./Localization.Langs/pt/strings.json",
-      "name": "strings.json",
-      "size": 220455,
-      "modified": 1769714080.6933217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/pt"
-    },
-    {
-      "path": "./Localization.Langs/da/strings.json",
-      "name": "strings.json",
-      "size": 207743,
-      "modified": 1769714080.6733217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/da"
-    },
-    {
-      "path": "./Localization.Langs/uz/strings.json",
-      "name": "strings.json",
-      "size": 214806,
-      "modified": 1769714080.7053218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/uz"
-    },
-    {
-      "path": "./Localization.Langs/jv/strings.json",
-      "name": "strings.json",
-      "size": 203365,
-      "modified": 1769714080.6863217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/jv"
-    },
-    {
-      "path": "./Localization.Langs/el/strings.json",
-      "name": "strings.json",
-      "size": 324807,
-      "modified": 1769714080.6753218,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/el"
-    },
-    {
-      "path": "./Localization.Langs/ko/strings.json",
-      "name": "strings.json",
-      "size": 221633,
-      "modified": 1769714080.6873217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/ko"
-    },
-    {
-      "path": "./Localization.Langs/sk/strings.json",
-      "name": "strings.json",
-      "size": 214648,
-      "modified": 1769714080.6973217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/sk"
-    },
-    {
-      "path": "./Localization.Langs/tr/strings.json",
-      "name": "strings.json",
-      "size": 211088,
-      "modified": 1769714080.7033217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/tr"
-    },
-    {
-      "path": "./Localization.Langs/ru/strings.json",
-      "name": "strings.json",
-      "size": 299602,
-      "modified": 1769714080.6963217,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/ru"
-    },
-    {
-      "path": "./Localization.Langs/ca/strings.json",
-      "name": "strings.json",
-      "size": 220975,
-      "modified": 1769714080.6713219,
-      "modified_human": "2026-01-29 19:14:40",
-      "extension": ".json",
-      "directory": "./Localization.Langs/ca"
     }
   ],
   ".xaml": [

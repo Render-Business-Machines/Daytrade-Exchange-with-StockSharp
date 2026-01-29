@@ -1,27 +1,28 @@
 {
-  "total_files": 1560,
-  "total_size_bytes": 65101693,
+  "total_files": 1592,
+  "total_size_bytes": 66449169,
   "file_types": {
     ".props": 14,
-    "no_extension": 2,
+    "(no extension)": 2,
     ".dotsettings": 1,
+    ".md": 41,
+    ".json": 41,
     ".sln": 2,
-    "": 1,
-    ".md": 37,
+    "(dotfile)": 1,
     ".ico": 1,
     ".cs": 1060,
     ".csproj": 125,
+    ".txt": 24,
     ".fs": 9,
     ".fsproj": 1,
     ".gif": 4,
     ".png": 27,
     ".svg": 95,
-    ".json": 37,
     ".xaml": 75,
     ".resx": 26,
     ".settings": 28,
     ".config": 1,
     ".py": 14
   },
-  "generated_at": "2026-01-29 19:15:50"
+  "generated_at": "2026-01-29 19:21:21"
 }

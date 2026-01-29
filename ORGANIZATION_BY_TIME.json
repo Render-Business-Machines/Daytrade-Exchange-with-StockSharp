@@ -5,7 +5,7 @@
     "size": 2887,
     "modified": 1769714080.628322,
     "modified_human": "2026-01-29 19:14:40",
-    "extension": "",
+    "extension": "(dotfile)",
     "directory": "."
   },
   {
@@ -6701,7 +6701,7 @@
     "size": 11558,
     "modified": 1769714080.6673217,
     "modified_human": "2026-01-29 19:14:40",
-    "extension": "no_extension",
+    "extension": "(no extension)",
     "directory": "."
   },
   {
@@ -10184,7 +10184,7 @@
     "size": 865,
     "modified": 1769714080.9353213,
     "modified_human": "2026-01-29 19:14:40",
-    "extension": "no_extension",
+    "extension": "(no extension)",
     "directory": "."
   },
   {
@@ -10330,15 +10330,6 @@
     "modified_human": "2026-01-29 19:14:40",
     "extension": ".cs",
     "directory": "./Messages/Testing"
-  },
-  {
-    "path": "./README.md",
-    "name": "README.md",
-    "size": 31443,
-    "modified": 1769714080.9363215,
-    "modified_human": "2026-01-29 19:14:40",
-    "extension": ".md",
-    "directory": "."
   },
   {
     "path": "./Samples/01_Basic/02_MarketDepths/02_Basic.MarketDepths.csproj",
@@ -14037,6 +14028,303 @@
     "modified": 1769714080.9523213,
     "modified_human": "2026-01-29 19:14:40",
     "extension": ".props",
+    "directory": "."
+  },
+  {
+    "path": "./ORGANIZATION_BY_NAME.json",
+    "name": "ORGANIZATION_BY_NAME.json",
+    "size": 423942,
+    "modified": 1769714150.0774906,
+    "modified_human": "2026-01-29 19:15:50",
+    "extension": ".json",
+    "directory": "."
+  },
+  {
+    "path": "./ORGANIZATION_BY_TIME.json",
+    "name": "ORGANIZATION_BY_TIME.json",
+    "size": 423942,
+    "modified": 1769714150.0874906,
+    "modified_human": "2026-01-29 19:15:50",
+    "extension": ".json",
+    "directory": "."
+  },
+  {
+    "path": "./ORGANIZATION_BY_TYPE.json",
+    "name": "ORGANIZATION_BY_TYPE.json",
+    "size": 452369,
+    "modified": 1769714150.0984907,
+    "modified_human": "2026-01-29 19:15:50",
+    "extension": ".json",
+    "directory": "."
+  },
+  {
+    "path": "./ORGANIZATION_STATS.json",
+    "name": "ORGANIZATION_STATS.json",
+    "size": 461,
+    "modified": 1769714150.0994906,
+    "modified_human": "2026-01-29 19:15:50",
+    "extension": ".json",
+    "directory": "."
+  },
+  {
+    "path": "./ORGANIZATION_BY_NAME.md",
+    "name": "ORGANIZATION_BY_NAME.md",
+    "size": 14053,
+    "modified": 1769714173.7655396,
+    "modified_human": "2026-01-29 19:16:13",
+    "extension": ".md",
+    "directory": "."
+  },
+  {
+    "path": "./ORGANIZATION_BY_TYPE.md",
+    "name": "ORGANIZATION_BY_TYPE.md",
+    "size": 15986,
+    "modified": 1769714173.7655396,
+    "modified_human": "2026-01-29 19:16:13",
+    "extension": ".md",
+    "directory": "."
+  },
+  {
+    "path": "./REPOSITORY_ORGANIZATION.md",
+    "name": "REPOSITORY_ORGANIZATION.md",
+    "size": 4840,
+    "modified": 1769714197.9535828,
+    "modified_human": "2026-01-29 19:16:37",
+    "extension": ".md",
+    "directory": "."
+  },
+  {
+    "path": "./README.md",
+    "name": "README.md",
+    "size": 32571,
+    "modified": 1769714251.538688,
+    "modified_human": "2026-01-29 19:17:31",
+    "extension": ".md",
+    "directory": "."
+  },
+  {
+    "path": "./Algo/obj/Debug/net6.0/Algo.csproj.FileListAbsolute.txt",
+    "name": "Algo.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714295.6757514,
+    "modified_human": "2026-01-29 19:18:15",
+    "extension": ".txt",
+    "directory": "./Algo/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Messages/obj/Debug/netstandard2.0/Messages.csproj.FileListAbsolute.txt",
+    "name": "Messages.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714295.6807516,
+    "modified_human": "2026-01-29 19:18:15",
+    "extension": ".txt",
+    "directory": "./Messages/obj/Debug/netstandard2.0"
+  },
+  {
+    "path": "./Localization/obj/Debug/netstandard2.0/Localization.csproj.FileListAbsolute.txt",
+    "name": "Localization.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714295.6887515,
+    "modified_human": "2026-01-29 19:18:15",
+    "extension": ".txt",
+    "directory": "./Localization/obj/Debug/netstandard2.0"
+  },
+  {
+    "path": "./BusinessEntities/obj/Debug/net6.0/BusinessEntities.csproj.FileListAbsolute.txt",
+    "name": "BusinessEntities.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714295.6907516,
+    "modified_human": "2026-01-29 19:18:15",
+    "extension": ".txt",
+    "directory": "./BusinessEntities/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Configuration/obj/Debug/netstandard2.0/Configuration.csproj.FileListAbsolute.txt",
+    "name": "Configuration.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714295.8297517,
+    "modified_human": "2026-01-29 19:18:15",
+    "extension": ".txt",
+    "directory": "./Configuration/obj/Debug/netstandard2.0"
+  },
+  {
+    "path": "./Alerts.Interfaces/obj/Debug/net6.0/Alerts.Interfaces.csproj.FileListAbsolute.txt",
+    "name": "Alerts.Interfaces.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714295.8577518,
+    "modified_human": "2026-01-29 19:18:15",
+    "extension": ".txt",
+    "directory": "./Alerts.Interfaces/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Messages/obj/Debug/net6.0/Messages.csproj.FileListAbsolute.txt",
+    "name": "Messages.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714295.904752,
+    "modified_human": "2026-01-29 19:18:15",
+    "extension": ".txt",
+    "directory": "./Messages/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Media/obj/Debug/netstandard2.0/Media.csproj.FileListAbsolute.txt",
+    "name": "Media.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714295.915752,
+    "modified_human": "2026-01-29 19:18:15",
+    "extension": ".txt",
+    "directory": "./Media/obj/Debug/netstandard2.0"
+  },
+  {
+    "path": "./Localization.Generator/obj/Debug/netstandard2.0/Localization.Generator.csproj.FileListAbsolute.txt",
+    "name": "Localization.Generator.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.0407522,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Localization.Generator/obj/Debug/netstandard2.0"
+  },
+  {
+    "path": "./Connectors/BitStamp/obj/Debug/net6.0/BitStamp.csproj.FileListAbsolute.txt",
+    "name": "BitStamp.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.0647523,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Connectors/BitStamp/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Charting.Interfaces/obj/Debug/net6.0/Charting.Interfaces.csproj.FileListAbsolute.txt",
+    "name": "Charting.Interfaces.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.0757523,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Charting.Interfaces/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Algo.Export/obj/Debug/net6.0/Algo.Export.csproj.FileListAbsolute.txt",
+    "name": "Algo.Export.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.0957522,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Algo.Export/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Connectors/Bitalong/obj/Debug/net6.0/Bitalong.csproj.FileListAbsolute.txt",
+    "name": "Bitalong.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.1787524,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Connectors/Bitalong/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Connectors/Bitexbook/obj/Debug/net6.0/Bitexbook.csproj.FileListAbsolute.txt",
+    "name": "Bitexbook.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.2377524,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Connectors/Bitexbook/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Connectors/Btce/obj/Debug/net6.0/Btce.csproj.FileListAbsolute.txt",
+    "name": "Btce.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.2417526,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Connectors/Btce/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Connectors/Coinbase/obj/Debug/net6.0/Coinbase.csproj.FileListAbsolute.txt",
+    "name": "Coinbase.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.2797527,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Connectors/Coinbase/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Connectors/Tinkoff/obj/Debug/net6.0/Tinkoff.csproj.FileListAbsolute.txt",
+    "name": "Tinkoff.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.3377528,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Connectors/Tinkoff/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Connectors/FTX/obj/Debug/net6.0/FTX.csproj.FileListAbsolute.txt",
+    "name": "FTX.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.4687529,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Connectors/FTX/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Samples/03_Storage/02_Local/obj/Debug/net6.0/02_Storage.Local.csproj.FileListAbsolute.txt",
+    "name": "02_Storage.Local.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.6847534,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Samples/03_Storage/02_Local/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Samples/03_Storage/03_RemoteSource/obj/Debug/net6.0/03_Storage.RemoteSource.csproj.FileListAbsolute.txt",
+    "name": "03_Storage.RemoteSource.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.6887534,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Samples/03_Storage/03_RemoteSource/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Samples/03_Storage/01_Random/obj/Debug/net6.0/01_Storage.Random.csproj.FileListAbsolute.txt",
+    "name": "01_Storage.Random.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714296.6997533,
+    "modified_human": "2026-01-29 19:18:16",
+    "extension": ".txt",
+    "directory": "./Samples/03_Storage/01_Random/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Samples/08_Misc/02_Unit/obj/Debug/net6.0/02_Misc.Unit.csproj.FileListAbsolute.txt",
+    "name": "02_Misc.Unit.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714297.7127552,
+    "modified_human": "2026-01-29 19:18:17",
+    "extension": ".txt",
+    "directory": "./Samples/08_Misc/02_Unit/obj/Debug/net6.0"
+  },
+  {
+    "path": "./BusinessMachine/obj/Debug/net6.0/BusinessMachine.csproj.FileListAbsolute.txt",
+    "name": "BusinessMachine.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714297.8467555,
+    "modified_human": "2026-01-29 19:18:17",
+    "extension": ".txt",
+    "directory": "./BusinessMachine/obj/Debug/net6.0"
+  },
+  {
+    "path": "./Samples/10_CrossPlatform/01_ConsoleApp/obj/Debug/net6.0/01_CrossPlatform.ConsoleApp.csproj.FileListAbsolute.txt",
+    "name": "01_CrossPlatform.ConsoleApp.csproj.FileListAbsolute.txt",
+    "size": 0,
+    "modified": 1769714297.8487554,
+    "modified_human": "2026-01-29 19:18:17",
+    "extension": ".txt",
+    "directory": "./Samples/10_CrossPlatform/01_ConsoleApp/obj/Debug/net6.0"
+  },
+  {
+    "path": "./ORGANIZATION_BY_TIME.md",
+    "name": "ORGANIZATION_BY_TIME.md",
+    "size": 10755,
+    "modified": 1769714388.1568882,
+    "modified_human": "2026-01-29 19:19:48",
+    "extension": ".md",
     "directory": "."
   }
 ]
